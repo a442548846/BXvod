@@ -1,5 +1,5 @@
 {
-  "spider": "",
+  "spider": "https://ghproxy.com/",
 
   "sites": [
   {"key":"小宝影院","name":"小宝影院","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1},
