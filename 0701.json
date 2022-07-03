@@ -1,6 +1,6 @@
 ﻿// 配置地址 --> https://a442548846.github.io/BXtv/0701.json
 {
-"spider":"https://cdn.jsdelivr.net/gh/a442548846/BXtv@master/0701.jar;md5;ea934fa9a92239c09ebcaac35243aa4c",
+"spider":"https://a442548846.github.io/BXtv/0701.jar;md5;ea934fa9a92239c09ebcaac35243aa4c",
 "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hNDQyNTQ4ODQ2LmdpdGh1Yi5pby9CWHR2L3R2L2JjLnR4dA=="]}]}],
 
 
