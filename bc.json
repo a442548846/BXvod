@@ -1,6 +1,6 @@
 //https://ghproxy.com/https://raw.githubusercontent.com/a442548846/BXtv/main/bc.json
 {
-"spider":"https://a442548846.github.io/BXtv/0630.jar",
+"spider":"https://a442548846.github.io/BXtv/0701.jar",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hNDQyNTQ4ODQ2LmdpdGh1Yi5pby9CWHR2L3R2L2JjLnR4dA=="]}]}],
 
