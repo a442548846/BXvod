@@ -18,9 +18,9 @@
    {"key":"小宝影院","name":"小宝影院","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"If101","name":"If101","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"Olevod","name":"Olevod","type":3,"api":"csp_Olevod","searchable":1,"quickSearch":1,"filterable":1},
-  {"key":"AliPS","name":"盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext":"阿里token"},
-  {"key":"Gitcafe","name":"小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"阿里token"},
-  {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"阿里token"}
+  {"key":"AliPS","name":"盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext":"27b06d5221a24199b15f2e573d847430"},
+  {"key":"Gitcafe","name":"小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"27b06d5221a24199b15f2e573d847430"},
+  {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"27b06d5221a24199b15f2e573d847430"}
   ],
   "lives": [
     {
